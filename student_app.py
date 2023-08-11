@@ -276,9 +276,6 @@ def start_test():
     global answers_list,question_list,formatted_qlist,start_time
 
     create_quest_pgs(pages_no = 3)
-    
-    
-    
     formatted_qlist = []
     
     # level = level1.get()
